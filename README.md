@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudiugubernu
 - 👀 I’m interested in web development and latest tech
-- 🌱 I’m currently learning javaScript & PHP
+- 🌱 I’m currently working with an UK agency as a Full Stack Web Developer
 - 📫 How to reach me @klausgubernu
 
 <!---
