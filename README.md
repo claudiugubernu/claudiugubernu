@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/claudiugubernu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="claudiugubernu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/claudiugubernu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiugubernu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/claudiugubernu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="claudiugubernu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/claudiugubernu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="claudiugubernu" height="30" width="40" /></a>
+<a href="https://codepen.io/klausgubernu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="klausgubernu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudiugubernu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klausgubernu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/klausgubernu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="klausgubernu" height="30" width="40" /></a>
+<a href="https://codesandbox.com/klausgubernu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="claudiugubernu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
